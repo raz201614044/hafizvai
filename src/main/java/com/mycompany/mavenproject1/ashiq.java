@@ -9,5 +9,7 @@ package com.mycompany.mavenproject1;
  * @author kaziashiqurrahman
  */
 public class ashiq {
-    
+    public static void main(String[] args) {
+        System.out.println("ashiq");
+    }
 }
